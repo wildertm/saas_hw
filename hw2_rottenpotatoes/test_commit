@@ -1,0 +1,23 @@
+"test"
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+#
+# Committer: saasbook <saasbook@saasbook.(none)>
+#
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   db/development.sqlite3
+#	new file:   db/schema.rb
+#	new file:   log/development.log
+#	new file:   tmp/cache/assets/C88/E10/sprockets%2F1c7ad66f6d1ee469540774b871066342
+#	new file:   tmp/cache/assets/CF0/DA0/sprockets%2Fd7d5b37686831d37c4dd75e645f5e016
+#	new file:   tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705
+#	new file:   tmp/cache/assets/D54/ED0/sprockets%2F71c9fa01091d432b131da3bb73faf3d4
+#	new file:   tmp/cache/assets/D84/210/sprockets%2Fabd0103ccec2b428ac62c94e4c40b384
+#	new file:   tmp/cache/assets/E02/A50/sprockets%2F3ff5e2fb79ac1c27ec4e5cb60e566c7a
+#	new file:   tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af
+#
